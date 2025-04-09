@@ -15,5 +15,5 @@ ingenieria de requisitos
 teoria de automatas
 
 
-plataformas web
+plataformas web.
 
