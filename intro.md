@@ -1,10 +1,10 @@
-# UNIVERSIDAD TÉCNICA PARTICULAR DE LOJA
+# UNIVERSIDAD TECNICA PARTICULAR DE LOJA
 
 
-Nombre: José David Caraguay Armijos.
+Nombre: Jose David Caraguay Armijos.
 
 
-Computación.
+Computacion.
 
 
 Plataformas Web.
